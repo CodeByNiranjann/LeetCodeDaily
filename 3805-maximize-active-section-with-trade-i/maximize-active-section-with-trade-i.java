@@ -1,6 +1,5 @@
 class Solution {
     public int maxActiveSectionsAfterTrade(String s) {
-
         int ones = 0;
 
         for (char ch : s.toCharArray()) {
